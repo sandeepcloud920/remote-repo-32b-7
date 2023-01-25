@@ -5,6 +5,7 @@ devops
 linux
 completed
 html css javascript
+testing
 future courses i will take
 aws in the feb month
 react js
